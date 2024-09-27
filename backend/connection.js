@@ -9,5 +9,4 @@ const connect = async () => {
         console.log(`connection error:${error}`);
     }
 }
-
 module.exports = connect;
